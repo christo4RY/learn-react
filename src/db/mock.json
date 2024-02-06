@@ -1,0 +1,93 @@
+{
+    "books":[
+  {
+    "id": 1,
+    "category": "Fiction",
+    "book_name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "avatar": "https://i.pinimg.com/236x/c8/c8/82/c8c882a1f02776464dbce2852198992f.jpg",
+    "description": "A classic novel depicting the decadence of the American Dream during the Roaring Twenties."
+  },
+  {
+    "id": 2,
+    "category": "Science Fiction",
+    "book_name": "Dune",
+    "author": "Frank Herbert",
+    "avatar": "https://i.pinimg.com/236x/6b/9f/50/6b9f50950cb3441ca7136c9363827c0f.jpg",
+    "description": "A science fiction masterpiece set in a distant future amidst political intrigue, giant sandworms, and interstellar travel."
+  },
+  {
+    "id": 3,
+    "category": "Mystery",
+    "book_name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "avatar": "https://i.pinimg.com/236x/ad/27/17/ad27177ac341711d46a19fe60db109d1.jpg",
+    "description": "A gripping mystery thriller involving hidden secrets, symbolism, and a race against time to solve a murder."
+  },
+  {
+    "id": 4,
+    "category": "Biography",
+    "book_name": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "avatar": "https://i.pinimg.com/236x/24/66/a1/2466a17b21e6371ebc7a83ee36f6150e.jpg",
+    "description": "An in-depth biography of Apple co-founder Steve Jobs, chronicling his life, career, and impact on technology."
+  },
+  {
+    "id": 5,
+    "category": "Fantasy",
+    "book_name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "avatar": "https://i.pinimg.com/236x/8c/5a/4a/8c5a4a7bf7ae0912fc2d82bbdc8c01f1.jpg",
+    "description": "A classic fantasy trilogy that follows the epic journey to destroy the One Ring and defeat the Dark Lord Sauron."
+  },
+  {
+    "id": 6,
+    "category": "Historical Fiction",
+    "book_name": "The Book Thief",
+    "author": "Markus Zusak",
+    "avatar": "https://i.pinimg.com/236x/52/47/db/5247db0a938fefe5ddc73925f0e4b9ce.jpg",
+    "description": "Set in Nazi Germany, this novel narrated by Death tells the story of a young girl's relationship with her foster parents, the other residents of their neighborhood, and a Jewish fist-fighter."
+  },
+  {
+    "id": 7,
+    "category": "Science",
+    "book_name": "Cosmos",
+    "author": "Carl Sagan",
+    "avatar": "https://i.pinimg.com/236x/9d/06/94/9d06949ead924b468a06500deb0fd902.jpg",
+    "description": "A popular science book exploring the universe and our place in it, written by the renowned astrophysicist Carl Sagan."
+  },
+  {
+    "id": 8,
+    "category": "Thriller",
+    "book_name": "Gone Girl",
+    "author": "Gillian Flynn",
+    "avatar": "https://i.pinimg.com/236x/34/84/0a/34840a5cb9734c02dc1aa919c99afe31.jpg",
+    "description": "A psychological thriller that explores the complexities of a marriage and the disappearance of the wife on their fifth wedding anniversary."
+  },
+  {
+    "id": 9,
+    "category": "Classic",
+    "book_name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "avatar": "https://i.pinimg.com/236x/f5/9c/a7/f59ca7d5d5ae70d4f1c169e410bf5e48.jpg",
+    "description": "A timeless classic novel that explores themes of love, class, and societal expectations in 19th-century England."
+  },
+  {
+    "id": 10,
+    "category": "Non-Fiction",
+    "book_name": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "avatar": "https://i.pinimg.com/236x/56/ec/29/56ec29f524e595f91306edab919f3b6e.jpg",
+    "description": "An exploration of the history of Homo sapiens, from the emergence of our species to the present day, examining the impact of cultural, political, and technological developments."
+  }
+],
+"users":[
+  {
+    "id": 1,
+    "name": "arkar",
+    "email": "arkar@gmail.com",
+    "password": "arkarlin"
+  }
+]
+
+}
